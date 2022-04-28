@@ -1,2 +1,2 @@
-# POO
-Aplicações Java POOs
+# Programação Orientada a Objetos
+Aplicações Java P.O.Os
